@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanincityy
 - 👀 I’m interested in linguistics, mycology, literature
-- 🌱 I’m currently learning MSc in Languages Sciences and Python and Computational Linguistics in my free time :)
+- 🌱 I’m currently learning MSc in Languages Sciences, and Python and Computational Linguistics in my free time :)
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ...
 - 😄 Pronouns: they/she
