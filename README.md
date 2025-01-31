@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kanincityy
-- 👀 I’m interested in linguistics, mycology, literature
-- 🌱 I’m currently learning MSc in Languages Sciences 
-- 😄 Pronouns: they/she
-- ⚡ Fun fact: I speak six languages 
+✨ Hi, I’m Tatiana
+✨ I’m interested in computational linguistics, travel, and literature
+✨ I’m currently doing my Language Sciences Masters at UCL. With a specialisation in Technology of Language and Speech
 
 <!---
 kanincityy/kanincityy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
