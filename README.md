@@ -1,5 +1,7 @@
 ✨ Hi, I’m Tatiana
+
 ✨ I’m interested in computational linguistics, travel, and literature
+
 ✨ I’m currently doing my Language Sciences Masters at UCL. With a specialisation in Technology of Language and Speech
 
 <!---
