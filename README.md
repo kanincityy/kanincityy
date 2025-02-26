@@ -1,8 +1,8 @@
 # Hi, I’m Tatiana! 
 
-Welcome to my GitHub profile! I’m an MSc **Language Sciences** student at **UCL**, specialising in **Technology of Language and Speech**. 🚀
+Welcome to my GitHub profile! I’m an MSc **Language Sciences** student at **UCL**, specialising in **Technology of Language and Speech**. 
 
-I'm passionate about **computational linguistics**, **language technologies**, and how **machine learning** can be applied to speech and language. I love working on projects that bridge the gap between language and technology, and I’m always excited to explore new ways to make language processing more accessible and accurate. 🌟
+I'm passionate about **computational linguistics**, **language technologies**, and how **machine learning** can be applied to speech and language. I love working on projects that bridge the gap between language and technology, and I’m always excited to explore new ways to make language processing more accessible and accurate. 
 
 ## My Interests:
 - **Computational Linguistics**: Exploring how computational methods can help us understand, analyse, and generate language.
