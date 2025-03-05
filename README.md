@@ -18,7 +18,7 @@ I'm passionate about **computational linguistics**, **language technologies**, a
 
 ## Let’s Connect:
 - **LinkedIn**: (https://www.linkedin.com/in/tatiana-limonova/)
-- **GitHub**: (https://github.com/kanincityy)
+- **Website**: (https://www.tlimonova.com/)
 
 Happy coding! ✨🐇
 
