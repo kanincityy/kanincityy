@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I’m an MSc **Language Sciences** student at **UC
 I'm passionate about **computational linguistics**, **language technologies**, and how **machine learning** can be applied to speech and language. I love working on projects that bridge the gap between language and technology, and I’m always excited to explore new ways to make language processing more accessible and accurate. 
 
 ## My Interests:
-- **Computational Linguistics**: Exploring how computational methods can help us understand, analyse, and generate language.
-- **Language Technology**: Advancing the capabilities of AI in areas like speech recognition and emotion detection.
+- **Computational Linguistics**: Investigating the theoretical underpinnings of language processing, particularly in the context of noisy, real-world data and low-resource languages
+- **Language Technology**: Developing robust NLP models that can effectively handle the complexities of real-world text, including typographical errors, informal language, and other linguistic variations.
 - **Travel**: Discovering new cultures and languages around the world.
 - **Literature**: Reading (and occasionally writing) fiction and poetry that brings language to life.
 
