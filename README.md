@@ -15,10 +15,6 @@ I'm passionate about **computational linguistics**, **language technologies**, a
 - Ongoing research in **Speech Emotion Recognition (SER)** and **Machine Learning** applications for **low-SNR speech processing** in **white noise**.
 - Ongoing research in **cross-lingual hate speech detection** for **low-resource languages** using **multilingual models** and **inoculation techniques**.
 
-## Let’s Connect:
-- **LinkedIn**: (https://www.linkedin.com/in/tatiana-limonova/)
-- **Website**: (https://www.tlimonova.com/)
-
 Happy coding! ✨🐇
 
 <!---
