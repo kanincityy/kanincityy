@@ -11,9 +11,8 @@ I'm passionate about **computational linguistics**, **language technologies**, a
 - **Literature**: Reading (and occasionally writing) fiction and poetry that brings language to life.
 
 ## What I’m Working On:
-- **MSc in Language Sciences** at UCL.
-- Specialisation in **Technology of Language and Speech**.
-- Ongoing research in **Speech Emotion Recognition (SER)** and **Machine Learning** applications for **low-SNR speech processing**.
+- **MSc in Language Sciences** at UCL. Specialisation in **Technology of Language and Speech**.
+- Ongoing research in **Speech Emotion Recognition (SER)** and **Machine Learning** applications for **low-SNR speech processing** in **white noise**.
 - Ongoing research in **cross-lingual hate speech detection** for **low-resource languages** using **multilingual models** and **inoculation techniques**.
 
 ## Let’s Connect:
