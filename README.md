@@ -11,7 +11,7 @@ I'm passionate about computational linguistics, language technologies, and how m
 *   **Computational Linguistics:** Investigating the theoretical underpinnings of language processing, particularly in the context of noisy, real-world data and low-resource languages.
 *   **Language Technology:** Developing robust NLP models (especially Transformers, RNNs) that can effectively handle the complexities of real-world text and speech.
 *   **Machine Learning for Speech:** Applying ML techniques to challenges in speech processing, like Speech Emotion Recognition in noise.
-*   **Responsible AI:** Thinking critically about the ethical implications and fairness of language technologies. *(Added based on your LinkedIn interest)*
+*   **Responsible AI:** Thinking critically about the ethical implications and fairness of language technologies. 
 
 ### 🔭 I’m Currently Working On:
 
