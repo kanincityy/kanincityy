@@ -1,4 +1,4 @@
-# Hi, I’m Tatiana! 👋
+# Hi, I’m Tatiana! 
 
 Welcome to my GitHub profile! I’m an MSc Language Sciences student at UCL, specialising in Technology of Language and Speech.
 
