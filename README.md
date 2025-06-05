@@ -37,7 +37,7 @@ My mission is to build **human-centred AI systems** that make language technolog
 
 ## Let’s Connect!
 - Based in the UK | SE Open to AI/NLP roles in UK & Sweden
-- [LinkedIn](https://linkedin.com/in/tatianalimonova)
+- [LinkedIn](https://www.linkedin.com/in/tatiana-limonova/)
 - Portfolio: *Coming Soon*
 
 ---
