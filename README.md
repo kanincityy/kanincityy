@@ -1,8 +1,8 @@
 # Hi, I’m Tatiana!
 
-I'm a multilingual NLP and AI enthusiast completing my MSc in **Language Sciences: Technology of Language and Speech** at UCL. I specialise in **machine learning for language and speech**, with a focus on **low-resource NLP**, **speech emotion recognition**, and **LLM-powered applications**.
+I'm a multilingual NLP and AI enthusiast completing my MSc in **Language Sciences: Technology of Language and Speech** at UCL. I specialise in **machine learning for language and speech**, with a focus on **low-resource NLP**, **speech emotion recognition**, and **data-driven applications** powered by large language models.
 
-My mission is to build **human-centred AI systems** that make language technologies more inclusive, accessible, and responsible.
+My mission is to build **human-centred AI systems** that make language technologies and data insights more inclusive, accessible, and responsible.
 
 ---
 
