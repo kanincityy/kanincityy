@@ -22,7 +22,7 @@ My mission is to build **human-centred AI systems** that make language technolog
 ---
 
 ## Current Projects
-- **[SER in Noise](https://github.com/kanincityy/ser_in_noise)**: Speech emotion recognition under white noise (MSc dissertation)  
+- **[SER in Noise](https://github.com/kanincityy/xgboost_ser_in_noise)**: Speech emotion recognition under white noise (MSc dissertation)  
 - **[Misogyny Detection](https://github.com/kanincityy/hate_speech_detection_transformers)**: Low-resource Swedish misogyny classification with multilingual Transformers 
 - **[Smart Writing Coach](https://github.com/kanincityy/smart_writing_coach)**: LLM-based application that generates essay feedback for EFL students
 
