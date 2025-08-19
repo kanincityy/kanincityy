@@ -9,7 +9,7 @@ My mission is to build **human-centred AI systems** that make language technolog
 ## Research & Technical Interests
 - **Multilingual NLP**: Cross-lingual transfer learning, hate speech detection, low-resource language tools  
 - **Speech Technology**: Emotion recognition, noise-robust models, assistive tech for accessibility  
-- **LLMs & Prompt Engineering**: GPT-3/4 integrations for structured-to-natural language generation  
+- **LLMs & Prompt Engineering**: LLM integrations for structured-to-natural language generation  
 - **Ethical AI**: Fairness, bias mitigation, and inclusive language modeling  
 
 ---
