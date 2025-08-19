@@ -1,6 +1,6 @@
 # Hi, I’m Tatiana!
 
-I'm a multilingual NLP and AI enthusiast completing my MSc in **Language Sciences: Technology of Language and Speech** at UCL. I specialise in **machine learning for language and speech**, with a focus on **low-resource NLP**, **speech emotion recognition**, and **LLM-powered applications**.
+I'm a multilingual NLP and AI enthusiast working as a **Prompt Engineer / Junior Data Scientist** at Wyser. While also completing my MSc in **Language Sciences: Technology of Language and Speech** at UCL. I specialise in **machine learning for language and speech**, with a focus on **low-resource NLP**, **speech emotion recognition**, and **LLM-powered applications**.
 
 My mission is to build **human-centred AI systems** that make language technologies more inclusive, accessible, and responsible.
 
@@ -36,7 +36,7 @@ My mission is to build **human-centred AI systems** that make language technolog
 ---
 
 ## Let’s Connect!
-- Based in the UK | SE Open to AI/NLP roles in UK & Sweden
+- Based in the UK | SE 
 - [LinkedIn](https://www.linkedin.com/in/tatiana-limonova/)
 - Portfolio: *Coming Soon*
 
