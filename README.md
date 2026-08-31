@@ -1,37 +1,14 @@
 # Hi, I’m Tatiana!
 
-I'm a multilingual NLP and AI enthusiast working as a **Prompt Engineer / Junior Data Scientist** at Wyser. With an MSc in **Language Sciences: Technology of Language and Speech** at UCL. I specialise in **machine learning for language and speech**, with a focus on **low-resource NLP**, **speech emotion recognition**, and **LLM-powered applications**.
-
-My mission is to build **human-centred AI systems** that make language technologies more inclusive, accessible, and responsible.
-
----
-
-## Research & Technical Interests
-- **Multilingual NLP**: Cross-lingual transfer learning, hate speech detection, low-resource language tools  
-- **Speech Technology**: Emotion recognition, noise-robust models, assistive tech for accessibility  
-- **LLM Eval Methods**: LLM evaluation pipelines and iterative error analysis
-- **Ethical AI**: Fairness, bias mitigation, and inclusive language modeling  
+I'm a multilingual NLP and AI enthusiast working as a Data Scientist at Wyser. I specialise in AI/ML for language and speech, AI evals, and low-resource AI-applications. My mission is to build human-centred AI systems that make language technologies more inclusive, accessible, and responsible.
 
 ---
 
 ## Tools & Skills
-**Languages & Libraries**: Python, R, SQL, PyTorch, TensorFlow, Hugging Face, Scikit-learn  
-**NLP & Speech**: Transformers, SpaCy, Librosa, Praat, Seaborn, Matplotlib  
-**Other**: Git, Docker, MLOps (learning)
-
----
-
-## Current Projects
-- **[SER in Noise](https://github.com/kanincityy/xgboost_ser_in_noise)**: Speech emotion recognition under white noise (MSc dissertation)  
-- **[Misogyny Detection](https://github.com/kanincityy/hate_speech_detection_transformers)**: Low-resource Swedish misogyny classification with multilingual Transformers 
-- **[Smart Writing Coach](https://github.com/kanincityy/smart_writing_coach)**: LLM-based application that generates essay feedback for EFL students
-
----
-
-## Currently Exploring
-- Advanced NLP architectures (LLMs, Retrieval-Augmented Generation)  
-- AI fairness metrics and debiasing strategies  
-- Lightweight model deployment (FastAPI, Streamlit, Docker)
+**Programming & ML**: Python, PyTorch, DSPy, TensorFlow, SQL, R, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly 
+**NLP & Speech**: Hugging Face Transformers, NLTK, SpaCy, Librosa
+**Tools & Frameworks**: Docker, Azure, Git, GitHub, Streamlit, FastAPI
+**Languages**: English (Native), Spanish (Native), Russian (Native), Catalan (B2), French (B1), Swedish (B1)
 
 ---
 
@@ -39,15 +16,6 @@ My mission is to build **human-centred AI systems** that make language technolog
 - Based in the UK | SE 
 - [LinkedIn](https://www.linkedin.com/in/tatiana-limonova/)
 - Portfolio: *Coming Soon*
-
----
-
-## Fun Facts
-- Fluent in 5 languages (Russian, Spanish, English, Catalan, French)  
-- Occasional Advent of Code participant 
-- Enjoy reading (and sometimes writing!) fiction and poetry
-
----
 
 Thanks for visiting & happy coding! 🐇  
 <!---
