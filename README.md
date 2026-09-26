@@ -7,11 +7,6 @@ I'm a speech AI and acoustics enthusiast working as a Data Scientist at Wyser. I
 **NLP & Speech:** Hugging Face Transformers, Qdrant, pyannote.audio, Librosa, FFmpeg, Silero VAD, SpaCy, NLTK, Speech Signal Processing 
 **Tools & Frameworks:** Azure, Docker, Docker Compose, FastAPI, Auth0, REST APIs, Pydantic, Git, GitHub, Streamlit 
 
-## Let’s Connect!
-- Based in the UK | SE 
-- [LinkedIn](https://www.linkedin.com/in/tatiana-limonova/)
-- Portfolio: *Coming Soon*
-
 Thanks for visiting & happy coding! 🐇  
 <!---
 kanincityy/kanincityy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
