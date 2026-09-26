@@ -1,4 +1,4 @@
-# hi, I’m Tatiana!!
+# hi!!
 I'm a speech AI and acoustics enthusiast working as a Data Scientist at Wyser. I specialise in AI/ML for language and speech, AI evals, and low-resource AI-applications. 
 
 ## Tools & Skills
